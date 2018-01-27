@@ -1,0 +1,9 @@
+{
+  "alias": "samm-micropub",
+  "env": {
+    "NODE_ENV": "production",
+    "GRAPHCMS_URI": "@graphcms-uri",
+    "GRAPHCMS_RELAY_URI": "@graphcms-relay-uri",
+    "GRAPHCMS_BLOG_AUTH_TOKEN": "@graphcms-blog-auth-token"
+  }
+}
